@@ -1,7 +1,7 @@
 - 👋 Hi, my name is White Daka
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning how to go about Penetration Testing looking forward to become a great PenTester
-- 💞️ I’m looking to collaborate in a Red Team environment
+- 🌱 I’m currently learning all about IT and how to go about Penetration Testing looking forward to become a great PenTester
+- 💞️ I’m looking to forward to collaborate in a Red Team environment
 - 📫 How to reach me: wytteedaka@gmail.com
 
 <!---
